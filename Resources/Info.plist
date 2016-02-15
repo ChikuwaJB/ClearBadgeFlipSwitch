@@ -5,11 +5,11 @@
 	<key>CFBundleDevelopmentRegion</key>
 	<string>English</string>
 	<key>CFBundleExecutable</key>
-	<string>ClearBadgeFlipSwitch</string>
+	<string>ClearBadge</string>
 	<key>CFBundleIdentifier</key>
 	<string>com.chikuwa.clearbadgeflipswitch</string>
 	<key>CFBundleDisplayName</key>
-	<string>ClearBadgeFlipSwitch</string>
+	<string>ClearBadge</string>
 	<key>CFBundleInfoDictionaryVersion</key>
 	<string>6.0</string>
 	<key>CFBundlePackageType</key>
@@ -25,7 +25,7 @@
 	<key>MinimumOSVersion</key>
 	<string>3.0</string>
 	<key>NSPrincipalClass</key>
-	<string>ClearBadgeFlipSwitchSwitch</string>
+	<string>ClearBadge</string>
 	<key>alternate-action-url</key>
 	<string>prefs:</string>
 </dict>
