@@ -37,7 +37,7 @@
             NSString *badgeStr = [[[[%c(SBIconViewMap) homescreenMap] iconModel] applicationIconForBundleIdentifier:identifier] badgeNumberOrString];
             int badgeValue = [badgeStr intValue];
             
-            if (icon != nil && badgeValue >= 0) {
+            if (icon != nil && badgeValue > 0) {
                 [[[[%c(SBIconViewMap) homescreenMap] iconModel] applicationIconForBundleIdentifier:identifier] setBadge:nil];
             }
         }
