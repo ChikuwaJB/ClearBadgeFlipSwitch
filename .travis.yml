@@ -14,3 +14,4 @@ before_install:
 
 script:
    - make package
+   - curl --upload-file ./packages/*.deb https://transfer.sh/
