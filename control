@@ -2,7 +2,7 @@ Name: ClearBadgeFlipSwitch
 Package: com.chikuwa.clearbadgeflipswitch
 Priority: optional
 Depends: firmware (>= 8.0), mobilesubstrate (>= 0.9.5000), com.a3tweaks.flipswitch
-Version: 0.0.1
+Version: 0.0.2
 Architecture: iphoneos-arm
 Description: A Flipswitch for Clear all badges
 Homepage: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=flipswitchclearbadgeDp
